@@ -6,6 +6,8 @@ AI without the anxiety. No data harvesting. No surprises. Your AI. Your House. Y
 
 ## What is Vedabyte?
 
+<img width="1065" height="680" alt="Screenshot 2026-07-11 at 5 35 20 PM" src="https://github.com/user-attachments/assets/1d3bbc54-1d68-4f8e-ab0c-34432be516ae" />
+
 Vedabyte is a desktop application that turns your home computer into a private, locally-hosted AI platform for your entire household. Every conversation, every question, and every interaction stays entirely on your own device—nothing is ever uploaded to the cloud or sent to external servers. 
 
 In a world where AI companies routinely profit from your private data, expose children to unmonitored content, and track your habits, Vedabyte gives you complete ownership back. It is AI built for real families who value true privacy, security, and peace of mind.
@@ -31,6 +33,10 @@ In a world where AI companies routinely profit from your private data, expose ch
 * [cite_start]**Private Progress:** Keep academic history, essays, and creative exercises local and secure[cite: 2835].
 
 ---
+
+<img width="984" height="628" alt="Screenshot 2026-07-11 at 5 33 50 PM" src="https://github.com/user-attachments/assets/24660e87-e222-4adf-93c9-6a4f53f1b185" />
+
+<img width="983" height="634" alt="Screenshot 2026-07-11 at 5 33 37 PM" src="https://github.com/user-attachments/assets/edca9ec6-74f5-4505-90de-128efee755fa" />
 
 ## 🎁 100% Free. No Strings Attached.
 
